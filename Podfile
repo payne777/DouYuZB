@@ -6,8 +6,9 @@ use_frameworks!
 target 'DouYuZB' do
 
  
-pod 'Alamofire'
+#pod 'Alamofire','3.0.0'
  
 pod 'SwiftyJSON'
-
+pod 'Kingfisher'
+   
 end
